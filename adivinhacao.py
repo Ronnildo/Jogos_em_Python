@@ -27,3 +27,4 @@ while rodada <= total_tentativas:
     rodada = rodada + 1
 
 print('Fim de Jogo')
+print('Jogou bem!')
